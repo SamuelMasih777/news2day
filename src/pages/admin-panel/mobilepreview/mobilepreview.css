@@ -1,0 +1,37 @@
+.mobile-preview-container {
+    max-width: 375px; /* Adjust as needed for desired mobile device width */
+    margin: 0 auto;
+  }
+  
+  .mobile-preview {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+  }
+  
+  .mobile-header {
+    border-bottom: 1px solid #ccc;
+    padding-bottom: 10px;
+    margin-bottom: 10px;
+  }
+  
+  .mobile-title {
+    font-size: 18px;
+    margin-bottom: 5px;
+  }
+  
+  .mobile-category {
+    font-size: 14px;
+    color: #888;
+  }
+  
+  .mobile-content {
+    padding-bottom: 10px;
+  }
+  
+  .mobile-text {
+    font-size: 16px;
+    line-height: 1.5;
+  }
+  

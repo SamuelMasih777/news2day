@@ -1,0 +1,19 @@
+:root{
+  --bg-color:#2b31cce7;
+  --primary-color:#21224e;
+  --secondary-color:#9f4393;
+  --accent-color:#F8F8F8;
+  --text-color-primary:#f8f7f8;
+  --green-badge:#22c55e;
+}
+body{
+  background-color: var(--bg-color);;
+  overflow-x: hidden;
+  overflow-y: auto;
+}
+.nav{
+  border:1px solid var(--container-border-color);
+}
+.nav:hover{
+  box-shadow: 2px 2px 5px 4px rgba(0, 0, 0, 0.128);
+}
